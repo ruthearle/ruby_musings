@@ -4,6 +4,7 @@ Ruby Musings
 All of these exercises were completed before starting Makers Academy 12 week intensive. 
 
 
+
 Exercises were taken from various websites and books:
 #####Books
 Learn to Program, 2nd ed, Chris Pine
